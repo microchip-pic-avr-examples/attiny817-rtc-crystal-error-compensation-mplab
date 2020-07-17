@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>RTCCrystalErrorCompensation</name>
+            <name>attiny817-rtc-crystal-error-compensation-mplab</name>
             <creation-uuid>9fd2c740-a450-44a3-a9b0-096d9e1e32f1</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
