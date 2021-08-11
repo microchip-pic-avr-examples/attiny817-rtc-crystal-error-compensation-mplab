@@ -4,18 +4,18 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny817-rtc-crystal-error-compensation-mplab",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "RTC Crystal Error Compensation",
         "projectName": "attiny817-rtc-crystal-error-compensation-mplab",
         "shortDescription": "This example code demonstrates how to do compensation for static drift in the Real-Time Counter (RTC). A known value for the drift will be used.",
         "ide": {
-            "name": "MPLABX",
-            "semverRange": ">=5.40"
+            "name": "MPLAB X",
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.29"
+                "semverRange": "^2.29.0"
             }
         ],
         "dfp": {
@@ -51,6 +51,10 @@
             "RTC"
         ],
         "keywords": [
+            "Crystal",
+            "Calibration", 
+            "Accumulation Scaling", 
+            "Error Correcting Code"
         ],
         "additionalData": {
             "longDescription": {
